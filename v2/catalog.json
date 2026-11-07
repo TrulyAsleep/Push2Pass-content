@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "updated": "2026-11-03",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "kokoro-en",
@@ -119,6 +119,150 @@
       "minAppVersion": "0.5.0-beta.1",
       "author": "TrulyAsleep",
       "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-tr-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "ru",
+      "kind": "lang",
+      "name": "Russian - Русский",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Russian - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Russian. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Russian voice.",
+      "sizeBytes": 47901,
+      "sha256": "6d06d0aa63dbb93aebed5374406fe2a84dd2bc1a44f49c1f2c07fe7ebd1a7d47",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-ru-1/F1RaceEngineer-Lang-ru-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-ru-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "pl",
+      "kind": "lang",
+      "name": "Polish - Polski",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Polish - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Polish. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Polish voice.",
+      "sizeBytes": 42837,
+      "sha256": "17c0182197e2a1c711680d1a10bff837f75eb1847ff6e3a83d4de924fa09a9c6",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-pl-1/F1RaceEngineer-Lang-pl-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-pl-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "nl",
+      "kind": "lang",
+      "name": "Dutch - Nederlands",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Dutch - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Dutch. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Dutch voice.",
+      "sizeBytes": 40456,
+      "sha256": "5ee680a73b5c9115fc4c927012288e61f4fc3ce86dd5cbadac1b7c89b2dcb49c",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-nl-1/F1RaceEngineer-Lang-nl-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-nl-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "ja",
+      "kind": "lang",
+      "name": "Japanese - 日本語",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Japanese - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Japanese. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Japanese voice.",
+      "sizeBytes": 42153,
+      "sha256": "53765f4288e15baed73554634e0a28139e3a663c1acabc7b6401da13c0ec6382",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-ja-1/F1RaceEngineer-Lang-ja-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-ja-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "zh-cn",
+      "kind": "lang",
+      "name": "Chinese (Simplified) - 简体中文",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Chinese (Simplified) - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Chinese (Simplified). This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Chinese (Simplified) voice.",
+      "sizeBytes": 39681,
+      "sha256": "feb5e9318253eb7d82b930d24c96be7452b000aa616e21e6af74fb228a58b7c2",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-zh-cn-1/F1RaceEngineer-Lang-zh-cn-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-zh-cn-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "ko",
+      "kind": "lang",
+      "name": "Korean - 한국어",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Korean - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Korean. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Korean voice.",
+      "sizeBytes": 40619,
+      "sha256": "3f3be5014ed842880348e53c12059812e8b41867a59544641e7b3e7ab3051a46",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-ko-1/F1RaceEngineer-Lang-ko-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-ko-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "cs",
+      "kind": "lang",
+      "name": "Czech - Čeština",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Czech - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Czech. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Czech voice.",
+      "sizeBytes": 42424,
+      "sha256": "a8c4cdc255d9b15bf2471d792a5aae19b17da1ea928322f981313b2180e19f56",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-cs-1/F1RaceEngineer-Lang-cs-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-cs-1",
+      "tier": {
+        "ui": "draft",
+        "speaking": "draft"
+      }
+    },
+    {
+      "id": "hu",
+      "kind": "lang",
+      "name": "Hungarian - Magyar",
+      "version": "1.0.0",
+      "summary": "Screens and engineer radio in Hungarian - a machine draft, not yet checked by a native speaker",
+      "description": "The app's screens and the engineer's radio calls in Hungarian. This is a machine draft: corrections are welcome on the Discord. Once it is installed, choose it on the Languages page. The engineer speaks it with a Windows Hungarian voice.",
+      "sizeBytes": 42771,
+      "sha256": "0c7c6feb1f8c7292580184cea2b13902d8d782b887041625e86eba77d51aab42",
+      "url": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/download/lang-hu-1/F1RaceEngineer-Lang-hu-1.0.0.zip",
+      "minAppVersion": "0.5.4-dev.3",
+      "author": "TrulyAsleep",
+      "notesUrl": "https://github.com/TrulyAsleep/F1RaceEngineer-content/releases/tag/lang-hu-1",
       "tier": {
         "ui": "draft",
         "speaking": "draft"
