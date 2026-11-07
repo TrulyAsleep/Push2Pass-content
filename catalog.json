@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-09-09",
+  "updated": "2026-11-07",
   "items": [
     {
       "id": "kokoro-en",
@@ -18,6 +18,11 @@
     }
   ],
   "news": [
+    {
+      "date": "07 NOV 2026",
+      "title": "Eight more languages, on the dev branch first",
+      "body": "Russian, Polish, Dutch, Japanese, Chinese (Simplified), Korean, Czech and Hungarian are coming as drafts. Drivers on the DEV update branch can try them now in 0.5.4-dev.3, and everyone else gets them with 0.5.4."
+    },
     {
       "date": "09 SEP 2026",
       "title": "Crash reports you can read before you send",
