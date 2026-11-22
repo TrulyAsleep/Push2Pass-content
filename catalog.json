@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated": "2026-11-07",
+  "updated": "2026-11-22",
   "items": [
     {
       "id": "kokoro-en",
@@ -18,6 +18,16 @@
     }
   ],
   "news": [
+    {
+      "date": "22 NOV 2026",
+      "title": "Push 2 Pass 0.5.4: eight more languages, one language list",
+      "body": "Russian, Polish, Dutch, Japanese, Chinese (Simplified), Korean, Czech and Hungarian join as drafts. The Languages page is one list: Download switches the app to a language, Use switches to one you already have, and the app asks before it restarts."
+    },
+    {
+      "date": "22 NOV 2026",
+      "title": "Delete in Settings, and steadier calls",
+      "body": "Settings has Delete app and Delete data. The window stays above the taskbar and fits smaller screens, the dashboard's fonts ship with the app, Report a problem carries voice input, and track limits and rain calls no longer flip back and forth after a crash."
+    },
     {
       "date": "07 NOV 2026",
       "title": "Eight more languages, on the dev branch first",
